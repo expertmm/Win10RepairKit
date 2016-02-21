@@ -1,0 +1,14 @@
+﻿C:\Program Files\Mythicsoft\Agent Ransack\msvcr120.dll 941 KB Application extension 11/21/2014 4:33:02 PM 11/21/2014 4:33:02 PM 2/21/2016 10:18:46 AM
+C:\Program Files (x86)\Mozilla Firefox\msvcr120.dll 949 KB Application extension 10/4/2013 9:38:22 PM 2/14/2016 7:42:02 PM 2/14/2016 7:42:02 PM
+C:\Program Files (x86)\Mozilla Thunderbird\msvcr120.dll 949 KB Application extension 7/23/2015 2:06:06 AM 1/27/2016 8:19:36 AM 1/27/2016 8:19:36 AM
+C:\Users\x\AppData\Local\Microsoft\OneDrive\17.3.6281.1202_1\amd64\msvcr120.dll 941 KB Application extension 1/11/2016 9:49:16 AM 1/11/2016 9:49:15 AM 1/11/2016 9:49:15 AM
+C:\Users\x\AppData\Local\Microsoft\OneDrive\17.3.6301.0127\msvcr120.dll 949 KB Application extension 2/11/2016 11:00:51 AM 2/11/2016 11:00:50 AM 2/11/2016 11:00:50 AM
+C:\Users\x\AppData\Local\Microsoft\OneDrive\17.3.6301.0127\amd64\msvcr120.dll 941 KB Application extension 2/11/2016 11:00:53 AM 2/11/2016 11:00:53 AM 2/11/2016 11:00:53 AM
+C:\Users\x\AppData\Local\SkypePlugin\7.7.0.219\msvcr120.dll 949 KB Application extension 10/5/2013 1:38:22 AM 10/5/2013 1:38:22 AM 10/24/2015 8:44:29 PM
+C:\Users\TempAdmin1\AppData\Local\Microsoft\OneDrive\17.3.5892.0626\amd64\msvcr120.dll 941 KB Application extension 12/21/2015 9:32:15 AM 12/21/2015 9:32:15 AM 12/21/2015 9:32:15 AM
+C:\Users\TempAdmin1\AppData\Local\Microsoft\OneDrive\17.3.6281.1202\msvcr120.dll 949 KB Application extension 12/21/2015 9:32:20 AM 12/21/2015 9:32:20 AM 12/21/2015 9:32:20 AM
+C:\Users\TempAdmin1\AppData\Local\Microsoft\OneDrive\17.3.6281.1202\amd64\msvcr120.dll 941 KB Application extension 12/21/2015 9:32:22 AM 12/21/2015 9:32:22 AM 12/21/2015 9:32:22 AM
+C:\Users\TempAdmin2\AppData\Local\Microsoft\OneDrive\17.3.6301.0127_1\msvcr120.dll 949 KB Application extension 2/14/2016 8:01:29 PM 2/14/2016 8:01:29 PM 2/14/2016 8:01:29 PM
+C:\Users\TempAdmin2\AppData\Local\Microsoft\OneDrive\17.3.6301.0127_1\amd64\msvcr120.dll 941 KB Application extension 2/14/2016 8:01:31 PM 2/14/2016 8:01:31 PM 2/14/2016 8:01:31 PM
+C:\Windows\System32\msvcr120.dll 941 KB Application extension 10/4/2013 11:58:24 PM 10/4/2013 11:58:24 PM 2/21/2016 10:18:13 AM
+C:\Windows\SysWOW64\msvcr120.dll 949 KB Application extension 10/5/2013 1:38:22 AM 10/5/2013 1:38:22 AM 10/17/2015 5:45:40 PM

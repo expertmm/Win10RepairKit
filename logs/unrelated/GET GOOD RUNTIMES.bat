@@ -1,0 +1,7 @@
+SET GOOD_CPP_RUNTIME64_FOLDER=C:\Program Files\Mythicsoft\Agent Ransack
+SET BAD_CPP_RUNTIME64_FOLDER=C:\Users\ramesh.jain\AppData\Local\Microsoft\OneDrive\17.3.6281.1202_1\amd64
+copy /y "%GOOD_CPP_RUNTIME64_FOLDER%\msvcr120.dll" "%BAD_CPP_RUNTIME64_FOLDER%\"
+copy /y "%GOOD_CPP_RUNTIME64_FOLDER%\MSVCP120.dll" "%BAD_CPP_RUNTIME64_FOLDER%\"
+
+
+pause

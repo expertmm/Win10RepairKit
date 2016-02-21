@@ -1,0 +1,3 @@
+C:\Users\TempAdmin2\AppData\Local\Microsoft\OneDrive\17.3.6301.0127_1\MSVCP120.dll is either not designed to run on Windows or it contains an error. Try installing the program again using the original installation media or contact your system administrator or the software vendor for support. Error status 0xc0000020.
+
+one may also suspect msvcr120.dll is bad too, so replaced all instances of both with ones from Agent Ransack (since Firefox ones are presumably 32-bit).
